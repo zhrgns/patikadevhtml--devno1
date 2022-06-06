@@ -1,3 +1,3 @@
 # patikadevhtml--odevno1
 patikadevhtml-ödevno1
-![](image1.jpg)
+![](images/1000.jpg)
